@@ -10,6 +10,8 @@
 
 
 > Beautiful process data handling for Camunda Platform 7.
+>
+> Migration to CIB 7.
 
 ## Why to use this library in every Camunda project
 
